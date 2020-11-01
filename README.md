@@ -14,6 +14,7 @@ JavaFX Library will be needed. Same goes for some other libraries that i have us
   </dependency>
 </dependencies>
 
+
 ***ControlsFX***
 
 <dependency>
