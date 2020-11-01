@@ -13,10 +13,7 @@ JavaFX Library will be needed. Same goes for some other libraries that i have us
     <version>3.1.1</version>
   </dependency>
 </dependencies>
-
-
 ***ControlsFX***
-
 <dependency>
     <groupId>org.controlsfx</groupId>
     <artifactId>controlsfx</artifactId>
